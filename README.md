@@ -4,4 +4,4 @@ but its back. the world has some addons. remember to
 play it on 6gb ram pc or more, or on a server. its
 very heavy.
 
-Notice! since 17 march 2025, mcworld and mcaddon files are now deprecated, since we are migrating to java. you can play it at https://tinyurl.com/SMPDEMCJAVANDPE or play it on pojavlauncher or in a pc. the project is NOT gone.
+Notice! since 16 may 2025, the repo changed. go to forks and check it out.
